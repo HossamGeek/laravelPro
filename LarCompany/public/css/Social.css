@@ -1,0 +1,7 @@
+.Add-Form input{
+    display: block;
+    margin-bottom: 15px;
+}
+.Add-Form select{
+    margin-bottom: 15px;
+}
